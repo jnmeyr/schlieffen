@@ -1,10 +1,10 @@
-# Schlieffen #
+# [Schlieffen](http://jnmeyr.github.io/schlieffen/) #
 
 A diplomacy board game in Elm.
 
 ### Version ###
 
-1.0
+1.0.0
 
 ### Controls ###
 
